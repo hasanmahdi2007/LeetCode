@@ -10,14 +10,16 @@ class Solution {
             }
             StringBuilder sb = new StringBuilder();
             for(int j : temp){
-                sb.append(j + "");
+                sb.append(j);
                 sb.append("#");
             }
             String s = sb.toString();
             if(m.containsKey(s)) L.get(m.get(s)).add(strs[i]);
             else {
                 m.put(s, L.size());
-                L.add(new ArrayList<String>(List.of(strs[i])));
+                List<String> element = new ArrayList<>();
+                element.add(strs[i]);
+                L.add(element);
             }    
         }
         return L;
