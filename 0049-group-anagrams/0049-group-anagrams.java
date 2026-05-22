@@ -3,24 +3,16 @@ class Solution {
         List<List<String>> L = new ArrayList<>();
         Map<String, Integer> m = new HashMap<>();
         for(int i = 0; i < strs.length; i++){
-            int[] temp = new int[26];
-            char[] c_arr = strs[i].toCharArray();
-            for(char c : c_arr){
-                temp[c - 'a']++;
-            }
-            StringBuilder sb = new StringBuilder();
-            for(int j : temp){
-                sb.append(j);
-                sb.append("#");
-            }
-            String s = sb.toString();
+            char[] letters = strs[i].toCharArray();
+            Arrays.sort(letters);
+            String s = new String(letters);
             if(m.containsKey(s)) L.get(m.get(s)).add(strs[i]);
-            else {
+            else{
                 m.put(s, L.size());
-                List<String> element = new ArrayList<>();
-                element.add(strs[i]);
-                L.add(element);
-            }    
+                List<String> tempo = new ArrayList<>();
+                tempo.add(strs[i]);
+                L.add(tempo);
+            }
         }
         return L;
     }
