@@ -1,28 +1,16 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int product = 1;
-        boolean allZero = true;
-        boolean hasTwoZeros = false;
-        boolean hasZero = false;
+        int[] prefix = new int[nums.length];
+        int[] suffix = new int[nums.length];
         int[] answer = new int[nums.length];
-        for(int i : nums) {
-            if(i != 0) {
-                allZero = false;
-                product *= i;
-            }    
-            else {
-                if(hasZero) hasTwoZeros = true;
-                hasZero = true;
-            }    
+        prefix[0] = 1;
+        suffix[nums.length-1] = 1;
+        for(int i = nums.length-2; i >= 0; i--) suffix[i] = suffix[i+1] * nums[i+1];
+        for(int i = 1; i < nums.length; i++) {
+            prefix[i] = prefix[i-1] * nums[i-1];
+            answer[i] = prefix[i] * suffix[i];
         }
-        if(allZero || hasTwoZeros)  return answer; 
-        for(int j = 0; j < answer.length; j++) {
-            if(nums[j] == 0) answer[j] = product;
-            else {
-                if(hasZero) continue;
-                else answer[j] = product / nums[j];
-            }
-        }    
+        answer[0] = suffix[0];
         return answer;
     }
 }
