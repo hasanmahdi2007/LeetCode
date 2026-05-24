@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hasanmahdi2007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hasanmahdi2007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/hasanmahdi2007/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hasanmahdi2007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/hasanmahdi2007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hasanmahdi2007/LeetCode/tree/master/0853-car-fleet) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hasanmahdi2007/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
