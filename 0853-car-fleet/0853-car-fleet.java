@@ -12,14 +12,8 @@ class Solution {
         for(int i = position.length - 1; i >= 0; i--){
             if(i == position.length-1) s.push(position[i]);
             else{
-                if(m.get(position[i]) <= m.get(s.peek())) {
-                    if(m2.get(position[i]) < m2.get(s.peek())){
-                        s.pop();
-                        s.push(position[i]);
-                    }
-                } else {
-                    s.push(position[i]);
-                }   
+                if(m.get(position[i]) > m.get(s.peek())) 
+                    s.push(position[i]);  
             }
         }
         return s.size();
