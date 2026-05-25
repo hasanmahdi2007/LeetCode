@@ -13,11 +13,7 @@ class Solution {
             while(left < right){
                 int result = nums[left] + nums[right];
                 if (result == target) {
-                    List<Integer> L1 = new ArrayList<>();
-                    L1.add(first);
-                    L1.add(nums[left]);
-                    L1.add(nums[right]);
-                    L.add(L1);
+                    L.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     while(left < right && nums[left] == nums[left+1]) left++;
                     left++;
                 }
