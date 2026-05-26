@@ -19,6 +19,8 @@ class Solution {
         int shortest = Integer.MAX_VALUE;
         String shortest_string = "";
         int fit = 0;
+        int start = -1;
+        int end = -1;
         for(int i = 0; i < n1; i++){
             char c = s.charAt(i);
             if(c >= 'a') {
@@ -33,7 +35,8 @@ class Solution {
                 int length = i - left + 1;
                 if(length < shortest) {
                     shortest = length;
-                    shortest_string = s.substring(left,i+1);
+                    start = left;
+                    end = i;
                 }
                 char current = s.charAt(left);
                 if(current >= 'a') {
@@ -47,6 +50,8 @@ class Solution {
                 left++;
             } 
         }
+        if (shortest == Integer.MAX_VALUE) return "";
+        shortest_string = s.substring(start,end+1);
         return shortest_string;
     }
 }
