@@ -4,9 +4,9 @@ class Solution {
         int size = (n - k) + 1;
         int max = 0;
         int[] results = new int[size];
-        LinkedList<Integer> L = new LinkedList<>();
+        ArrayDeque<Integer> L = new ArrayDeque<>();
         for(int i = 0; i < n; i++){
-            while(!L.isEmpty() && nums[i] >= nums[L.get(0)]){
+            while(!L.isEmpty() && nums[i] >= nums[L.peekFirst()]){
                 L.removeFirst();
             }
             L.addFirst(i);
