@@ -1,7 +1,11 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h){
         int left = 0;
-        int right = Integer.MAX_VALUE;
+        int right = 0;
+        for (int pile : piles) {
+            if (pile > right) right = pile;
+        }
+        int answer = right;
         while(left <= right){
             int mid = (left + right) / 2;
             int counter = 0;
@@ -10,17 +14,11 @@ class Solution {
                 if(counter > h) break;
             }
             if(counter <= h) {
-                int mid2 = mid - 1;;
-                int counter2 = 0;
-                for(int i = 0; i < piles.length; i++){
-                    counter2 += Math.ceil(1.0 * piles[i] / mid2);
-                    if(counter2 > h) break;
-                }
-                if(counter2 > h) return mid;
+                answer = mid;
                 right = mid - 1;
             } 
             else left = mid + 1;
         }
-        return 0;
+        return answer;
     }
 }
