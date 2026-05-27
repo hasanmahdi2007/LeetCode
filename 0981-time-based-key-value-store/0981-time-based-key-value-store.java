@@ -18,8 +18,9 @@ class TimeMap {
     
     public void set(String key, String value, int timestamp) {
         if(m.containsKey(key)) {
-            m.get(key).s.add(value);
-            m.get(key).i.add(timestamp);
+            TimePackage t = m.get(key);
+            t.s.add(value);
+            t.i.add(timestamp);
         }    
         else {
             TimePackage t = new TimePackage();
