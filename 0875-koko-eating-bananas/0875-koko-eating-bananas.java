@@ -1,6 +1,6 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h){
-        int left = 0;
+        int left = 1;
         int right = 0;
         for (int pile : piles) {
             if (pile > right) right = pile;
@@ -10,7 +10,7 @@ class Solution {
             int mid = (left + right) / 2;
             int counter = 0;
             for(int i = 0; i < piles.length; i++){
-                counter += Math.ceil(1.0 * piles[i] / mid);
+                counter += (piles[i] + mid - 1) / mid;
                 if(counter > h) break;
             }
             if(counter <= h) {
