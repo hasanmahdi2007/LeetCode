@@ -25,7 +25,7 @@ class Solution {
         l1 = l1.next;
         ListNode tracker = head;    
 
-        while(l1 != null & l2 != null){
+        while(l1 != null && l2 != null){
             sum = l1.val + l2.val + carry;
             if(sum > 9) {
                 sum -= 10;
