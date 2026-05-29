@@ -19,8 +19,8 @@ class Solution {
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-        TreeNode root2 = invertTree(root.left);
-        TreeNode root3 = invertTree(root.right);
+        invertTree(root.left);
+        invertTree(root.right);
         return root;
     }
 }
