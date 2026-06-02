@@ -8,12 +8,14 @@ class Solution {
 
     public void helper(int[] nums, boolean[] bools, ArrayList<Integer> a, List<List<Integer>> arr){
         for(int i = 0; i < nums.length; i++){
+            if(a.size() == nums.length) {
+                arr.add(new ArrayList<Integer>(a));
+                return;
+            }        
             if(bools[i] == false){
                 a.add(nums[i]);
                 bools[i] = true;
                 helper(nums,bools,a,arr);
-                if(a.size() == nums.length) 
-                    arr.add(new ArrayList<Integer>(a));
                 a.remove(a.size()-1);
                 bools[i] = false;
             }
