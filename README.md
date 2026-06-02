@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/hasanmahdi2007/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hasanmahdi2007/LeetCode/tree/master/0078-subsets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/hasanmahdi2007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/hasanmahdi2007/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hasanmahdi2007/LeetCode/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
