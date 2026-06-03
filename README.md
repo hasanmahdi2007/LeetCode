@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hasanmahdi2007/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hasanmahdi2007/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hasanmahdi2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hasanmahdi2007/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hasanmahdi2007/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hasanmahdi2007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hasanmahdi2007/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/hasanmahdi2007/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0090-subsets-ii) |
 ## Monotonic Stack
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
