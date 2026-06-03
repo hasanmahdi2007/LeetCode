@@ -13,6 +13,7 @@ class Solution {
         char c = digits.charAt(0);
         for(int i = 0; i < letters[c - '0'].length(); i++) 
             result.add(letters[c - '0'].charAt(i) + "");
+        StringBuilder sb = new StringBuilder();
         for(int i = 1; i < digits.length(); i++){
             List<String> result2= new ArrayList<String>();
             c = digits.charAt(i);
@@ -20,7 +21,10 @@ class Solution {
             for(int j = 0; j < current.length(); j++){
                 c = current.charAt(j);
                 for(int k = 0; k < result.size(); k++){
-                    result2.add( result.get(k) + "" + c);
+                    sb.append(result.get(k));
+                    sb.append(c);
+                    result2.add(sb.toString());
+                    sb.setLength(0);
                 }
             }
             result = result2;
