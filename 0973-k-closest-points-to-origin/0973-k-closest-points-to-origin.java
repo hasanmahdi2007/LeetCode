@@ -1,27 +1,19 @@
 class Solution {
 
-    private class Node{
-        public int index;
-        public int distance;
-
-        public Node(int distance, int index){
-            this.index = index;
-            this.distance = distance;
-        }
-    }
+    
     public int[][] kClosest(int[][] points, int k) {
         int[][] answer = new int[k][2];
-        PriorityQueue<Node> heap = new PriorityQueue<>(k, (a,b) -> Integer.compare(b.distance, a.distance));
+        PriorityQueue<int[]> heap = new PriorityQueue<>(k, (a,b) -> Integer.compare(b[0], a[0]));
         for(int i = 0; i < points.length; i++){
             int distance = distance(points[i]);
             if(heap.size() == k){
-                if(distance < heap.peek().distance){
+                if(distance < heap.peek()[0]){
                     heap.poll();
-                    heap.add(new Node(distance, i));
+                    heap.add(new int[] {distance, i});
                 }
-            } else heap.add(new Node(distance, i));
+            } else heap.add(new int[] {distance, i});
         }
-        for(int i = 0; i < k; i++) answer[i] = points[heap.poll().index];
+        for(int i = 0; i < k; i++) answer[i] = points[heap.poll()[1]];
         return answer;
     }
 
