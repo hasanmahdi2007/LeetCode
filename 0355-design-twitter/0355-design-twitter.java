@@ -7,13 +7,18 @@ class Twitter {
         followings = new HashMap<>();
 
     }
-    
-    public void postTweet(int userId, int tweetId) {
-        if(!followings.containsKey(userId)) {
+
+    private void UserCreate(int userId) {
+        if (!followings.containsKey(userId)) {
             HashSet<Integer> s = new HashSet<>();
             s.add(userId);
-            followings.put(userId,s);
+            followings.put(userId, s);
         }
+        tweets.putIfAbsent(userId, new ArrayDeque<>());
+    }
+    
+    public void postTweet(int userId, int tweetId) {
+        UserCreate(userId);
         if(tweets.containsKey(userId)){
             ArrayDeque<int[]> s = tweets.get(userId);
             s.push(new int[] {tweetId, time++});
@@ -26,12 +31,7 @@ class Twitter {
     }
     
     public List<Integer> getNewsFeed(int userId) {
-        if (!followings.containsKey(userId)) {
-            HashSet<Integer> s = new HashSet<>();
-            s.add(userId);
-            followings.put(userId, s);
-        }
-        tweets.putIfAbsent(userId, new ArrayDeque<>());
+        UserCreate(userId);
         List<Integer> array = new ArrayList<>();
         Map<Integer, ArrayDeque<int[]>> restoredMap = new HashMap<>();
         PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> Integer.compare(b[0],a[0]));
@@ -66,21 +66,12 @@ class Twitter {
     }
     
     public void follow(int followerId, int followeeId) {
-        if (!followings.containsKey(followerId)) {
-            HashSet<Integer> s = new HashSet<>();
-            s.add(followerId);
-            followings.put(followerId, s);
-        }
+        UserCreate(followerId);
         followings.get(followerId).add(followeeId);
     }
     
     public void unfollow(int followerId, int followeeId) {
-        if (!followings.containsKey(followerId)) {
-            HashSet<Integer> s = new HashSet<>();
-            s.add(followerId);
-            followings.put(followerId, s);
-        }
-        tweets.putIfAbsent(followerId, new ArrayDeque<>());
+        UserCreate(followerId);
         followings.get(followerId).remove(followeeId);
     }
 }
