@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hasanmahdi2007/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/hasanmahdi2007/LeetCode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/hasanmahdi2007/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/hasanmahdi2007/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/hasanmahdi2007/LeetCode/tree/master/0078-subsets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/hasanmahdi2007/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
