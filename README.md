@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/hasanmahdi2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/hasanmahdi2007/LeetCode/tree/master/1046-last-stone-weight) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hasanmahdi2007/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hasanmahdi2007/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hasanmahdi2007/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/hasanmahdi2007/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sliding Window
 |  |
 | ------- |
