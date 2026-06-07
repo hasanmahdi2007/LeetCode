@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hasanmahdi2007/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hasanmahdi2007/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hasanmahdi2007/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hasanmahdi2007/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sliding Window
 |  |
