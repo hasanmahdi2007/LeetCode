@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/hasanmahdi2007/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hasanmahdi2007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hasanmahdi2007/LeetCode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/hasanmahdi2007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hasanmahdi2007/LeetCode/tree/master/0853-car-fleet) |
 ## Design
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hasanmahdi2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hasanmahdi2007/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hasanmahdi2007/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/hasanmahdi2007/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hasanmahdi2007/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sliding Window
