@@ -24,10 +24,10 @@ class Solution {
         while(!heap.isEmpty()){
             int[] panel = heap.poll();
             Node node = nodes[panel[0]];
-            if(panel[1] >= node.minTime) continue;
-            else node.minTime = panel[1];
+            if(panel[1] < node.minTime) node.minTime = panel[1];
             for(int i = 0; i < node.links.size(); i++){
-                heap.offer(new int[] {node.links.get(i), node.time.get(i) + panel[1]});
+                if(node.time.get(i) + panel[1] < nodes[node.links.get(i)].minTime) 
+                    heap.offer(new int[] {node.links.get(i), node.time.get(i) + panel[1]});
             }
         }
         int maxTime = nodes[k].minTime;
