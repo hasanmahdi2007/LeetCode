@@ -26,8 +26,10 @@ class Solution {
             Node node = nodes[panel[0]];
             if(panel[1] < node.minTime) node.minTime = panel[1];
             for(int i = 0; i < node.links.size(); i++){
-                if(node.time.get(i) + panel[1] < nodes[node.links.get(i)].minTime) 
+                if(node.time.get(i) + panel[1] < nodes[node.links.get(i)].minTime) {
+                    nodes[node.links.get(i)].minTime = node.time.get(i) + panel[1];
                     heap.offer(new int[] {node.links.get(i), node.time.get(i) + panel[1]});
+                }    
             }
         }
         int maxTime = nodes[k].minTime;
