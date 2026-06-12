@@ -20,19 +20,23 @@ class Solution {
             if(i == m-1 && j == n-1) return coordinates[2];
             if(i != m-1) {
                 minTime = Math.max(coordinates[2], grid[i+1][j]);
-                heap.offer(new int[] {i+1, j, minTime});
+                if(minTime < bestTime[i+1][j])
+                    heap.offer(new int[] {i+1, j, minTime});
             }    
             if(i != 0) {
                 minTime = Math.max(coordinates[2], grid[i-1][j]);
-                heap.offer(new int[] {i-1, j, minTime});
+                if(minTime < bestTime[i-1][j])
+                    heap.offer(new int[] {i-1, j, minTime});
             }    
             if(j != n-1) {
                 minTime = Math.max(coordinates[2], grid[i][j+1]);
-                heap.offer(new int[] {i, j+1, minTime});
+                if(minTime < bestTime[i][j+1])
+                    heap.offer(new int[] {i, j+1, minTime});
             }   
             if(j != 0) {
                 minTime = Math.max(coordinates[2], grid[i][j-1]);
-                heap.offer(new int[] {i, j-1, minTime});
+                if(minTime < bestTime[i][j-1])
+                    heap.offer(new int[] {i, j-1, minTime});
             }    
         }
     }
