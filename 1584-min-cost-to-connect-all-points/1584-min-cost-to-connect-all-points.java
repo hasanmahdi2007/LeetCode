@@ -3,7 +3,7 @@ class Solution {
         if(points.length == 1) return 0;
         boolean[] visited = new boolean[points.length];
         int counter = 0;
-        PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> a[0] - b[0]);
+        PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> Integer.compare(a[0], b[0]));
         heap.offer(new int[] {0,0});
         while (!heap.isEmpty()){
             int[] value = heap.poll();
