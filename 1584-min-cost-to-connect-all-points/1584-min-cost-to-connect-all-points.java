@@ -11,6 +11,7 @@ class Solution {
             if(visited[value[1]]) continue;
             visited[value[1]] = true;
             for(int j = 0; j < points.length; j++){
+                if(visited[j]) continue;
                 int[] point2 = points[j];
                 int distance = Math.abs(point[0] - point2[0]) + Math.abs(point[1] - point2[1]);
                 heap.offer(new int[] {distance, j});
