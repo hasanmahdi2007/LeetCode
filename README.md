@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hasanmahdi2007/LeetCode/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/hasanmahdi2007/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/hasanmahdi2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/hasanmahdi2007/LeetCode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hasanmahdi2007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hasanmahdi2007/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hasanmahdi2007/LeetCode/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hasanmahdi2007/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Stack
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hasanmahdi2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/hasanmahdi2007/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Greedy
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/hasanmahdi2007/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hasanmahdi2007/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hasanmahdi2007/LeetCode/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -349,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hasanmahdi2007/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
