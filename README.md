@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/hasanmahdi2007/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/hasanmahdi2007/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/hasanmahdi2007/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/hasanmahdi2007/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hasanmahdi2007/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
