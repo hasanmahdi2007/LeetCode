@@ -1,12 +1,12 @@
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 1) return nums[0];
-        int withFirst = BackToTop(0,  nums.length-1, nums);
-        int withLast = BackToTop(1, nums.length, nums);
+        int withFirst = BottomUp(0,  nums.length-1, nums);
+        int withLast = BottomUp(1, nums.length, nums);
         return Math.max(withFirst, withLast);
     }
 
-    public int BackToTop(int start, int end, int[] nums){
+    public int BottomUp(int start, int end, int[] nums){
         int maxValue = 0;
         int robberOne = 0;
         int robberTwo = 0;
