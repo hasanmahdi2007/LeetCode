@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hasanmahdi2007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/hasanmahdi2007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hasanmahdi2007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hasanmahdi2007/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/hasanmahdi2007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/hasanmahdi2007/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hasanmahdi2007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hasanmahdi2007/LeetCode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hasanmahdi2007/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
