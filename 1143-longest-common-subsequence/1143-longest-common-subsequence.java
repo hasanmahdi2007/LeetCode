@@ -14,11 +14,7 @@ class Solution {
             dp[i][j] = 1 + dfs(i-1, j-1, text1, text2, dp);
         }
         else {
-            int value1 = 0;
-            int value2 = 0;
-            value1 = dfs(i-1, j, text1, text2, dp);
-            value2 = dfs(i, j-1, text1, text2, dp);
-            dp[i][j] = Math.max(value1, value2);
+            dp[i][j] = Math.max(dfs(i-1, j, text1, text2, dp), dfs(i, j-1, text1, text2, dp));
         }
         return dp[i][j];    
     }
