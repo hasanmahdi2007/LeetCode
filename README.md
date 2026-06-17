@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hasanmahdi2007/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0518-coin-change-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hasanmahdi2007/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hasanmahdi2007/LeetCode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/hasanmahdi2007/LeetCode/tree/master/0994-rotting-oranges) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hasanmahdi2007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hasanmahdi2007/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/hasanmahdi2007/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/hasanmahdi2007/LeetCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hasanmahdi2007/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -450,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hasanmahdi2007/LeetCode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
 | ------- |
@@ -468,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hasanmahdi2007/LeetCode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
