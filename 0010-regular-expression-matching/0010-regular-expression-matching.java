@@ -16,9 +16,8 @@ class Solution {
         if(j != p.length()-1 && p.charAt(j+1) == '*'){
             if(p.charAt(j) == s.charAt(i) || p.charAt(j) == '.') {
                 boolean stay = dfs(i+1, j, s, p, memo);
-                boolean next = dfs(i+1, j+2, s, p, memo);
                 boolean ignore = dfs(i, j+2, s, p, memo);
-                return memo[i][j] = stay || next || ignore;
+                return memo[i][j] = stay || ignore;
             }    
             else return memo[i][j] = dfs(i, j+2, s, p, memo);
         }
