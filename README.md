@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hasanmahdi2007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hasanmahdi2007/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/hasanmahdi2007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hasanmahdi2007/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/hasanmahdi2007/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hasanmahdi2007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hasanmahdi2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/hasanmahdi2007/LeetCode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0338-counting-bits) |
 ## Merge Sort
