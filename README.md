@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0518-coin-change-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0338-counting-bits) |
 ## Merge Sort
 |  |
 | ------- |
