@@ -1,12 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        int num = 0;
         for(int i = 0; i < nums.length; i++){
-            int found = 0;
-            for(int j = 0; j < nums.length; j++){
-                if(nums[j] == nums[i]) found++;
-            }
-            if(found == 1) return nums[i];
+            num ^= nums[i];
         }
-        return 0;
+        return num;
     }
 }
