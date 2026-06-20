@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/hasanmahdi2007/LeetCode/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hasanmahdi2007/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/hasanmahdi2007/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2013-detect-squares](https://github.com/hasanmahdi2007/LeetCode/tree/master/2013-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/hasanmahdi2007/LeetCode/tree/master/2013-detect-squares) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
+| [2013-detect-squares](https://github.com/hasanmahdi2007/LeetCode/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/hasanmahdi2007/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/hasanmahdi2007/LeetCode/tree/master/2013-detect-squares) |
 ## Math
 |  |
 | ------- |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2013-detect-squares](https://github.com/hasanmahdi2007/LeetCode/tree/master/2013-detect-squares) |
 ## Geometry
 |  |
 | ------- |
