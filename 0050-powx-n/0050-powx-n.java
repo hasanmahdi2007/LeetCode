@@ -2,7 +2,7 @@ class Solution {
     public double myPow(double x, int n) {
         long N = n;
         if(N >= 0) return posPow(x, N);
-        return 1 / (posPow(x,Math.abs(N)));
+        return 1 / (posPow(x,-N));
     }
 
     public double posPow(double x, long n){
