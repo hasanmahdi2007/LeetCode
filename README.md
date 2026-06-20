@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hasanmahdi2007/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/hasanmahdi2007/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/hasanmahdi2007/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/hasanmahdi2007/LeetCode/tree/master/0763-partition-labels) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hasanmahdi2007/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0424-longest-repeating-character-replacement](https://github.com/hasanmahdi2007/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/hasanmahdi2007/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hasanmahdi2007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hasanmahdi2007/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/hasanmahdi2007/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/hasanmahdi2007/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
