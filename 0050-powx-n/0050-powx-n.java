@@ -7,7 +7,6 @@ class Solution {
 
     public double posPow(double x, long n){
         if(n == 0) return 1;
-        if(n == 1) return x;
         double result = 1;
         double current = x;
         while(n > 0){
