@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/hasanmahdi2007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/hasanmahdi2007/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/hasanmahdi2007/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/hasanmahdi2007/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/hasanmahdi2007/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/hasanmahdi2007/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/hasanmahdi2007/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hasanmahdi2007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/hasanmahdi2007/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/hasanmahdi2007/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0054-spiral-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/hasanmahdi2007/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
