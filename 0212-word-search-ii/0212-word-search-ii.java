@@ -26,18 +26,16 @@ class Solution {
             current.word = word;
         }
         boolean[][] visited = new boolean[board.length][board[0].length];
-        HashSet<String> set = new HashSet<>();
+        List<String> ans = new ArrayList<>();
         for(int i = 0; i < board.length; i++){
             for(int j = 0; j < board[0].length; j++){
-                dfs(i, j, board, root, visited, set);
+                dfs(i, j, board, root, visited, ans);
             }
         }
-        List<String> ans = new ArrayList<>();
-        for(String word : set) ans.add(word);
         return ans;
     }
 
-    public void dfs(int i, int j, char[][] board, TrieNode current, boolean[][] visited, HashSet<String> set){
+    public void dfs(int i, int j, char[][] board, TrieNode current, boolean[][] visited, List<String> ans){
         if(i < 0 || i == board.length || j < 0 || j == board[0].length) return;
         if(visited[i][j]) return;
         visited[i][j] = true;
@@ -47,11 +45,14 @@ class Solution {
             return;
         }    
         current = current.letters[letter - 'a'];
-        if(current.word != null) set.add(current.word);
-        dfs(i+1, j, board, current, visited, set);
-        dfs(i-1, j, board, current, visited, set);
-        dfs(i, j+1, board, current, visited, set);
-        dfs(i, j-1, board, current, visited, set);
+        if(current.word != null) {
+            ans.add(current.word);
+            current.word = null;
+        }
+        dfs(i+1, j, board, current, visited, ans);
+        dfs(i-1, j, board, current, visited, ans);
+        dfs(i, j+1, board, current, visited, ans);
+        dfs(i, j-1, board, current, visited, ans);
         visited[i][j] = false;
     }
 }
