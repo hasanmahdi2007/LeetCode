@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hasanmahdi2007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hasanmahdi2007/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hasanmahdi2007/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/hasanmahdi2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hasanmahdi2007/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Stack
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/hasanmahdi2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hasanmahdi2007/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/hasanmahdi2007/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hasanmahdi2007/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/hasanmahdi2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/hasanmahdi2007/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hasanmahdi2007/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hasanmahdi2007/LeetCode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/hasanmahdi2007/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/hasanmahdi2007/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hasanmahdi2007/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hasanmahdi2007/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/hasanmahdi2007/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
