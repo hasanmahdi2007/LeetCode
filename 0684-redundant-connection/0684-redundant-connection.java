@@ -1,21 +1,22 @@
 class Solution {
     public int[] findRedundantConnection(int[][] edges) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] p = new int[edges.length + 1];
+        for (int i = 0; i < p.length; i++) p[i] = i;
         for (int i = 0; i < edges.length; i++) {
             int u = edges[i][0];
             int v = edges[i][1];
             int r1 = u;
-            while (map.containsKey(r1) && map.get(r1) != r1) {
-                r1 = map.get(r1);
+            while (r1 != p[r1]) {
+                p[r1] = p[p[r1]];
+                r1 = p[r1];
             }
             int r2 = v;
-            while (map.containsKey(r2) && map.get(r2) != r2) {
-                r2 = map.get(r2);
+            while (r2 != p[r2]) {
+                p[r2] = p[p[r2]];
+                r2 = p[r2];
             }
-            if (!map.containsKey(r1)) map.put(r1, r1);
-            if (!map.containsKey(r2)) map.put(r2, r2);
             if (r1 == r2) return edges[i];
-            map.put(r1, r2);
+            p[r1] = r2;
         }
         return new int[0];
     }
