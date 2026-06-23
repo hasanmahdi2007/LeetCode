@@ -19,6 +19,7 @@ class Solution {
             int total = current + dfs(nums, dp, left, k-1) + dfs(nums, dp, k+1, right);
             maxCoins = Math.max(maxCoins, total);
         }
-        return dp[left][right] = maxCoins;
+        dp[left][right] = maxCoins;
+        return dp[left][right];
     }
 }
