@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hasanmahdi2007/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hasanmahdi2007/LeetCode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/hasanmahdi2007/LeetCode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/hasanmahdi2007/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/hasanmahdi2007/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hasanmahdi2007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hasanmahdi2007/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/hasanmahdi2007/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/hasanmahdi2007/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/hasanmahdi2007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/hasanmahdi2007/LeetCode/tree/master/0853-car-fleet) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hasanmahdi2007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hasanmahdi2007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/hasanmahdi2007/LeetCode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/hasanmahdi2007/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/hasanmahdi2007/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hasanmahdi2007/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/hasanmahdi2007/LeetCode/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
