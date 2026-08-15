@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hasanmahdi2007/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hasanmahdi2007/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/hasanmahdi2007/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hasanmahdi2007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hasanmahdi2007/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hasanmahdi2007/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/hasanmahdi2007/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hasanmahdi2007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hasanmahdi2007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hasanmahdi2007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hasanmahdi2007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/hasanmahdi2007/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hasanmahdi2007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/hasanmahdi2007/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/hasanmahdi2007/LeetCode/tree/master/0355-design-twitter) |
 ## Recursion
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hasanmahdi2007/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/hasanmahdi2007/LeetCode/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
