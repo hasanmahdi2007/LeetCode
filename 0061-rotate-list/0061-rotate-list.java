@@ -18,6 +18,7 @@ class Solution {
             size++;
         }
         int leftSpots = k % size;
+        if (leftSpots == 0) return head;
         int steps = size - (leftSpots+1);
         ListNode curr2 = head;
         for(int i = 0; i < steps; i++){
